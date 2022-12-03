@@ -26,6 +26,8 @@ public class Main {
         burgers.add(burger4);
         burgers.add(burger5);
 
+        burgers.add(burger1);
+
 
     }
 }
