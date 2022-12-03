@@ -1,0 +1,7 @@
+CheeseBurger,20.0,Vita
+ChickenBurger,19.0,Pui
+DoubleCheeseBurger,28.0,Vita
+HotBurger,21.0,Vita
+OnionBurger,23.0,Vita
+PorkBurger,22.0,Porc
+
